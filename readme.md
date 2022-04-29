@@ -10,4 +10,6 @@ The primary function of this map is to see the covid rates in your area by hover
 
 COVID CASES
 
-![](img/Covid-Cases.jpg)
+![](img/Covid-Cases.JPG)
+
+The data that was needed to complete this map came from [The New York Times](https://github.com/nytimes/covid-19-data/blob/43d32dde2f87bd4dafbb7d23f5d9e878124018b8/live/us-counties.csv). The primary function for this map is to see the covid cases in your country around the country. 
